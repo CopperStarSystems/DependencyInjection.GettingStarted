@@ -1,4 +1,8 @@
-﻿## Introduction 
+**Stuck?  Need Help?  Get 1-on-1 assistance on CodeMentor!**
+
+[![Contact me on Codementor](https://cdn.codementor.io/badges/contact_me_github.svg)](https://www.codementor.io/copperstarconsulting?utm_source=github&utm_medium=button&utm_term=copperstarconsulting&utm_campaign=github)
+ 
+## Introduction 
 
 Dependency Injection (DI) is an established design pattern describing how objects acquire their dependencies.
   This pattern is often facilitated by an Inversion of Control (IoC) container, which is used at runtime 
@@ -585,6 +589,7 @@ Hello from my very first resolved class!
 ```
 
 >Note that the ObjectIds are now different depending on whether they're the instance from ConsoleWriter or CompositionRoot
+
 ---
 
 ## Glossary of Terms
